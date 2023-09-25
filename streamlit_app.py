@@ -5,4 +5,5 @@ streamlit.text('🥣avalakki')
 streamlit.text('🥗uppittu')
 streamlit.text('🐔dosa')
 streamlit.text('🥑edli')
+streamlit.header('🍌🥭 Build Your Own Fruit Smoothie 🥝🍇')
 
