@@ -1,7 +1,8 @@
 import streamlit
 streamlit.title('My parents new healthy diner')
-streamlit.title('Breakfast Menu')
-streamlit.title('avalakki',
-'uppittu',
-'dosa',
-'edli')
+streamlit.header('Breakfast Menu')
+streamlit.text('avalakki')
+streamlit.text('uppittu')
+streamlit.text('dosa')
+streamlit.text('edli')
+
